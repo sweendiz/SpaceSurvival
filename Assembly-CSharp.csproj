@@ -68,10 +68,11 @@
     <Compile Include="Assets\SampleScenes\Scripts\ParticleSceneControls.cs" />
     <Compile Include="Assets\SampleScenes\Scripts\PlaceTargetWithMouse.cs" />
     <Compile Include="Assets\SampleScenes\Scripts\SlowMoButton.cs" />
-    <Compile Include="Assets\Script\IResources.cs" />
+    <Compile Include="Assets\Script\ObjectStates.cs" />
     <Compile Include="Assets\Script\Player.cs" />
-    <Compile Include="Assets\Script\Resources.cs" />
-    <Compile Include="Assets\Script\SpaceRock.cs" />
+    <Compile Include="Assets\Script\Resources\IResources.cs" />
+    <Compile Include="Assets\Script\Resources\Resources.cs" />
+    <Compile Include="Assets\Script\Resources\SpaceRock.cs" />
     <None Include="Assets\SampleScenes\Shaders\Skybox-Procedural.shader" />
     <Reference Include="Unity.TextMeshPro.Editor">
       <HintPath>D:/Unity/src/SpaceSurvival/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
